@@ -107,14 +107,15 @@
 	}
 
 	#html_ex xmp { 
-			white-space: pre-wrap;
+			/* white-space: pre-wrap; */
 			margin-right: 0;
 			float: left;
 	}
 
 	#c_ex xmp{
-		white-space: pre-wrap;
-		margin-left: 5%;
+		white-space: pre-wrap; 
+		margin-left: 0%;
+		margin-right: 15%;
 	}
 
 	#c_ex h1{
