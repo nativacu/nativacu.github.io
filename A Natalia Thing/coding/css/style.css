@@ -1,0 +1,155 @@
+
+	#wrapper{
+		width:80%;
+		margin: 0 auto;
+	}
+	
+	nav ul{
+		margin-left: 235px;
+	}
+
+	nav li a{
+		margin-left:10px;
+		font-family: 'MySecondWebFont', Corbel, sans-serif;
+		text-decoration: none;
+		color: #55c94c;
+
+	}
+
+	a:hover{
+		color:#f09738;
+	}
+
+	nav li{
+		display: inline;
+	}	
+
+	p{
+		font-family: 'MySecondWebFont', Corbel, sans-serif;	
+	}
+
+	.logo{
+		margin-top: 20px;
+	}
+
+	footer{
+		padding-bottom: 0px;
+		margin-top: 20px;
+		padding-top: 10px;
+		width: 100%;
+		height: 145px;
+		background: url("../img/pingu.png") repeat-x;
+		background-position: top;
+		background-size: 232px 230px;
+	}
+
+	#python{
+		background-color: #55c94c;
+		width: 15%;
+		padding-left: 5px;
+		padding-bottom: 5px;
+		height: 30px;
+		border-radius: 25px;
+		float: left;
+	}
+	#python img{
+		padding-top: 5px;
+		float: left;
+		padding-right: 10px;
+	}
+
+	#python h3{
+		color:white;
+		font-family: 'MySecondWebFont', Corbel, sans-serif;
+		padding-top: 8px;
+		word-spacing: 50px;
+	}
+
+	#python a{
+		text-decoration: none;
+	}
+
+	#html_ex h1{
+		font-family: 'MyWebFont',Populaire,sans-serif;	
+		font-size: 35px;
+		margin-left: 500px;
+		color: #efd942;
+		text-align: left;
+
+	}
+
+	section{
+		margin-top:30px;
+		margin-bottom:50px;
+	}
+	#html_ex{
+		float: right;
+		width: 65%;
+		padding-right: 90px;
+	}
+
+	#html_ex xmp { 
+			white-space: pre-wrap;
+			margin-right: 60px;
+			float: left;
+	}
+
+	#c_ex xmp{
+		white-space: pre-wrap;
+		margin-left: 50px;
+	}
+
+	#c_ex h1{
+		font-family: 'MyWebFont',Populaire,sans-serif;	
+		font-size: 35px;
+		text-align: center;
+		color: #efd942;
+	}
+	#c_ex{
+		width: 25%;	
+		margin-bottom: 20px;
+		margin-left:10%;
+	}
+
+	#java{
+		margin-left: 20px;
+		background-color: #efd942;
+		width: 15%;
+		padding-left: 5px;
+		padding-bottom: 5px;
+		height: 30px;
+		border-radius: 25px;
+		float: left;
+	}
+
+	#java img{
+		padding-top: 5px;
+		float: left;
+		padding-right: 10px;
+		padding-left: 5px;
+	}
+
+	#java h3{
+		color:white;
+		font-family: 'MySecondWebFont', Corbel, sans-serif;
+		padding-top: 8px;
+		word-spacing:25px;
+	}
+
+	#java a{
+		text-decoration: none;
+	}
+
+	#java{
+		
+	}
+
+	#tutorials h1{
+		font-family: 'MyWebFont',Populaire,sans-serif;	
+		font-size: 30px;
+		color: #efd942;
+	}
+
+	#tutorials h2{
+		float: left;
+	}

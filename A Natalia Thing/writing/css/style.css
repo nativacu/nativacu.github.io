@@ -1,0 +1,54 @@
+
+	#wrapper{
+		width:80%;
+		margin: 0 auto;
+	}
+	
+	nav ul{
+		margin-left: 235px;
+	}
+
+	nav li a{
+		margin-left:10px;
+		font-family: 'MySecondWebFont', Corbel, sans-serif;
+		text-decoration: none;
+		color: #55c94c;
+
+	}
+
+	a:hover{
+		color:#f09738;
+	}
+
+	nav li{
+		display: inline;
+	}	
+
+	.logo{
+		margin-top: 20px;
+	}
+
+	#fotos img{
+		margin-top: 20px;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	h1{
+		padding-top: 10px;
+		text-transform: uppercase;
+		font-family: 'MyWebFont', Populaire, sans-serif;
+		font-size: 40px;
+		color: #efd942;
+		padding-bottom: 5px;
+	}
+
+	p{
+		font-family: 'MySecondWebFont', Corbel, sans-serif;
+		line-height: 20px;
+	}
+
+	a{
+		text-decoration: none;
+		color:#55c94c;
+	}
