@@ -32,7 +32,6 @@
 		font-family: 'MySecondWebFont', Corbel, sans-serif;
 		text-decoration: none;
 		color: #55c94c;
-
 	}
 
 	a:hover{
@@ -109,13 +108,13 @@
 
 	#html_ex xmp { 
 			white-space: pre-wrap;
-			margin-right: 1%;
+			margin-right: 0;
 			float: left;
 	}
 
 	#c_ex xmp{
 		white-space: pre-wrap;
-		margin-left: 50px;
+		margin-left: 1%;
 	}
 
 	#c_ex h1{
