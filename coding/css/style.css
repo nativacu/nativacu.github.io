@@ -1,3 +1,22 @@
+	@font-face {
+		font-family: 'MyWebFont';
+		font-family: 'Populaire';
+		src: url('Populaire.eot');
+		src: url('Populaire.eot?#iefix') format('embedded-opentype'),
+		url('Populaire.woff2') format('woff2'),
+		url('Populaire.woff') format('woff'),
+		url('Populaire.ttf') format('truetype');
+	}
+
+	@font-face {
+		font-family: 'MySecondWebFont';
+		font-family: 'Corbel';
+		src: url('Corbel.eot');
+		src: url('Corbel.eot?#iefix') format('embedded-opentype'),
+		url('Corbel.woff2') format('woff2'),
+		url('Corbel.woff') format('woff'),
+		url('Corbel.ttf') format('truetype');
+	}
 
 	#wrapper{
 		width:80%;
