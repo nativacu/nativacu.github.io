@@ -71,7 +71,7 @@
 		float: left;
 	}
 	#python img{
-		padding-top: 0.5%;
+		padding-top: 5%;
 		float: left;
 		padding-right: 10px;
 	}
@@ -79,7 +79,7 @@
 	#python h3{
 		color:white;
 		font-family: 'MySecondWebFont', Corbel, sans-serif;
-		padding-top: 0.5%;
+		padding-top: 5%;
 		word-spacing: 50px;
 	}
 
