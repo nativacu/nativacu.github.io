@@ -107,7 +107,7 @@
 	}
 
 	#html_ex xmp { 
-			/* white-space: pre-wrap; */
+			white-space: pre-wrap; 
 			margin-right: 0;
 			float: left;
 	}
